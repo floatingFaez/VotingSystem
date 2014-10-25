@@ -1,0 +1,13 @@
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\bin\Debug\VotingSystemApp.exe.config
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.Properties.Resources.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.UI.CandidateEntryUi.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.UI.MainUi.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.UI.NoOfWinnerEntryUi.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.UI.ResutUi.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.UI.VoteCastUi.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\bin\Debug\VotingSystemApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\bin\Debug\VotingSystemApp.pdb
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\VotingSystemApp\VotingSystemApp\obj\Debug\VotingSystemApp.pdb
